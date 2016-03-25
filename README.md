@@ -2,7 +2,7 @@
 
 
 Cmopilation:
-gcc.prog.(
+gcc.prog.C
 
 Execution:
 ./a.out < input
